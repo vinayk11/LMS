@@ -1,0 +1,57 @@
+{  "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "empEmail" : "charan.kumar@atmecs.com", "empId" : "AIN028", "empName" : "Charan Kumar Goud", "employeeDesignation" : "Software Engineer", "leaveAppliedDatesSubmitted" : [ "xx", "yy" ],"leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"], "leaveCancellationSubmitted" : [ "xx", "yy", "zz", "uuu" ], "leavesApprovedDates" : [ "04/07/2014", "20/04/2014" ], "leavesCancelledDates" : [ "NIL" ], "leavesGranted" : "8", "reasonForApplyleave" : "xxx", "reasonForCancelLeave" : "NIL", "totalLeaveBalanace" : "13", "totalLeavesApplicable" : "25", "totalLeavesApplied" : "8", "totalLeavesCancelled" : "0" }
+{ "empId" : "AIN068", "empName" : "Uma Devi Jeediguntla", "empEmail" : "umadevi.jeediguntla@atmecs.com", "employeeDesignation" : "Software Engineer", "totalLeavesApplicable" : "25", "leavesGranted" : "2", "leavesApprovedDates" : [ "04/07/2014", "20/04/2014" ], "leaveAppliedDatesSubmitted" : [ "xx", "yy" ], "totalLeavesApplied" : "2", "totalLeaveBalanace" : "21", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"] }
+{ "empId" : "AIN088", "empName" : "Sindhu sathyanarayana", "empEmail" : "sindhu.sathyanarayana@atmecs.com", "employeeDesignation" : "Sr.Software Engineer", "totalLeavesApplicable" : "22", "leavesGranted" : "0", "leavesApprovedDates" : [ "NIL" ], "leaveAppliedDatesSubmitted" : [ "NIL" ], "totalLeavesApplied" : "0", "totalLeaveBalanace" : "22", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"]}
+{ "empId" : "AIN071", "empName" : "Soujanya Divi", "empEmail" : "sowjanya.divi@atmecs.com", "employeeDesignation" : "Software Engineer", "totalLeavesApplicable" : "23", "leavesGranted" : "0", "leavesApprovedDates" : [ "NIL" ], "leaveAppliedDatesSubmitted" : [ "NIL" ], "totalLeavesApplied" : "0", "totalLeaveBalanace" : "23", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"]}
+{ "empId" : "AIN072", "empName" : "Swathi Methuku", "empEmail" : "swathi.methuku@atmecs.com", "employeeDesignation" : "Software Engineer", "totalLeavesApplicable" : "23", "leavesGranted" : "0", "leavesApprovedDates" : [ "NIL" ], "leaveAppliedDatesSubmitted" : [ "NIL" ], "totalLeavesApplied" : "0", "totalLeaveBalanace" : "23", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"]}
+{  "empId" : "AIN086", "empName" : "Vinay Kumar Korupolu", "empEmail" : "vinaykumar.korupolu@atmecs.com", "employeeDesignation" : "Software Engineer", "totalLeavesApplicable" : "22", "leavesGranted" : "0", "leavesApprovedDates" : [ "NIL" ], "leaveAppliedDatesSubmitted" : [ "NIL" ], "totalLeavesApplied" : "0", "totalLeaveBalanace" : "22", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"] }
+{ "empId" : "AIN089", "empName" : "SanjayKumar Pursti", "empEmail" : "sanjay.prusti@atmecs.com", "employeeDesignation" : "Software Engineer", "totalLeavesApplicable" : "21", "leavesGranted" : "0", "leavesApprovedDates" : [ "NIL" ], "leaveAppliedDatesSubmitted" : [ "NIL" ], "totalLeavesApplied" : "0", "totalLeaveBalanace" : "21", "reasonForApplyleave" : "xxx", "leavesCancelledDates" : [ "NIL" ], "leaveCancellationSubmitted" : [ "xx", "yy" ], "totalLeavesCancelled" : "0", "reasonForCancelLeave" : "NIL", "aproveLeaveStatus" : "NIL", "cancelLeaveStatus" : "NIL", "leaveApproverId" :["AIN015","AIN001"], "leaveApproverEmail" :[ "kapil.yampalli@atmecs.com","srilatha.vellanki@atmecs.com"]}
+
+
+{
+	"empId" : "AIN086",
+	"empEmail" : "vinaykumar.korupolu@atmecs.com",
+	"empName" : "VinayKumar",
+	"tatalLeavesApplicable" : 24,
+	"employeeDesignation" : "Softwareengineer",
+	"leaveApproverEmail" : [
+		"kapil.yampalli@atmecs.com",
+		"srilatha.vellanki@atmecs.com"
+	]
+}
+{
+	"empId" : "AIN028",
+	"empEmail" : "charan.kumar@atmecs.com",
+	"empName" : "Charan Kumar Goud",
+	"tatalLeavesApplicable" : 24,
+	"employeeDesignation" : "Softwareengineer",
+	"leaveApproverEmail" : [
+		"kapil.yampalli@atmecs.com",
+		"srilatha.vellanki@atmecs.com"
+	]
+}
+{
+	"empId" : "AIN068",
+	"empEmail" : "umadevi.jeediguntla@atmecs.com",
+	"empName" : "Uma Devi Jeediguntla",
+	"tatalLeavesApplicable" : 24,
+	"employeeDesignation" : "Softwareengineer",
+	"leaveApproverEmail" : [
+		"kapil.yampalli@atmecs.com",
+		"srilatha.vellanki@atmecs.com"
+	]
+}
+{
+	"empId" : "AIN088",
+	"empEmail" : "sindhu.sathyanarayana@atmecs.com",
+	"empName" : "Sindhu sathyanarayana",
+	"tatalLeavesApplicable" : 24,
+	"employeeDesignation" : "Softwareengineer",
+	"leaveApproverEmail" : [
+		"kapil.yampalli@atmecs.com",
+		"srilatha.vellanki@atmecs.com"
+	]
+}
+
+
+
+
